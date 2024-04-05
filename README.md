@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**dilankar17/dilankar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dilanka Rathnasiri.
+I'm a Sri Lankan software engineer.
 
-Here are some ideas to get you started:
+I'm enjoying software engineering.
+I'm mainly interested in backend development and cloud computing.
+Java and Python are my day-to-day languages.
+But I like to explore and learn new things in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+
+- My Linkedin profile: https://www.linkedin.com/in/dilankarathnasiri
+- My blog: https://dev.to/dilankar17
+- My Hackerrank profile: https://www.hackerrank.com/profile/dilankar17
